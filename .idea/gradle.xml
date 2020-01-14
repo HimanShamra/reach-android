@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="/absolute/or/relative/path/to/mylib/login/1.0.2" />
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/absolute/or/relative/path/to/mylib/login/1.0.2" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
