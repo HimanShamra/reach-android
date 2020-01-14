@@ -1,0 +1,28 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.mapbox.mapboxsdk.maps.MapView
+            android:id="@+id/mapView"
+            android:layout_width="match_parent"
+            android:layout_height="839dp"
+            mapbox:mapbox_cameraTargetLat="40.73581"
+            mapbox:mapbox_cameraTargetLng="-73.99155"
+            mapbox:mapbox_cameraZoom="11"
+            mapbox:mapbox_styleUrl="@string/mapbox_style_mapbox_streets"
+            tools:layout_editor_absoluteY="567dp">
+
+        </com.mapbox.mapboxsdk.maps.MapView>
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
+</LinearLayout>

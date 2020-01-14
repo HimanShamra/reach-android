@@ -1,0 +1,3 @@
+include ':app'
+include ':login'
+project(':login').projectDir = new File('/absolute/or/relative/path/to/mylib/login/1.0.2')
