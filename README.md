@@ -13,4 +13,4 @@ The app used Facebook O-Auth to login users. User credentials and events are sav
 
 #### Demo below:
 
-[![Video](https://github.com/HimanShamra/reach-android/blob/master/screenshots/Screenshot_20181017-194236_Reach%20It%20Alpha%20v1.jpg)](https://raw.githubusercontent.com/HimanShamra/reach-android/master/screenshots/reach%20v0.2.mp4?token=ADDEGK5NKTJZBV4X2CTP4US6E6CLS "Click to see demo")
+[![Video](https://github.com/HimanShamra/reach-android/blob/master/screenshots/Screenshot_20181017-194236_Reach%20It%20Alpha%20v1.jpg)](https://www.youtube.com/watch?v=CO_d0HoOR9A "Click to see demo")
